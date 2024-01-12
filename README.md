@@ -1,2 +1,2 @@
 # GatorRaider
-gator beats packman
+gator beats Pac-Man
